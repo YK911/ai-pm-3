@@ -1,6 +1,2 @@
-body {
-  font-family: sans-serif;
-  font-size: 20px;
-  background-color: #e2e2e2;
-  color: #130d23;
-}
+@import url("./base.css");
+@import url("./header.css");
